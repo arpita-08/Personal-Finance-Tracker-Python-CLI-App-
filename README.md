@@ -29,10 +29,10 @@ A lightweight Python command-line tool to track income, expenses, and visualize 
 ## Screenshots
 
 **Terminal Output**  
-![Terminal Output](images/img1.png)
+![Terminal Output](Images/img1.png)
 
 **Income vs Expense Plot**  
-![Plot](images/img2.png)
+![Plot](Images/img2.png)
 
 ---
 
